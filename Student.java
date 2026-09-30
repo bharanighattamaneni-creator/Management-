@@ -1,0 +1,1 @@
+package com.library.model; public class Student { public int id; public String name; }

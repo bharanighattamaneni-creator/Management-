@@ -1,0 +1,1 @@
+package com.library.model; public class IssueRecord { public int id; public int studentId; public int bookId; }

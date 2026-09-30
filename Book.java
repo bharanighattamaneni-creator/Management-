@@ -1,0 +1,1 @@
+package com.library.model; public class Book { public int id; public String title; public String author; public boolean available=true; }
